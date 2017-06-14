@@ -1,3 +1,7 @@
+Gemfile.lock
+Thumbs.db
+.bundle/
+bundle/
 _site/
 .sass-cache/
 .jekyll-metadata
